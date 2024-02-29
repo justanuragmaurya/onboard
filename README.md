@@ -9,4 +9,4 @@ Once the talent applies on the job post , thier resumes and form response's deta
 
 We also plan to add further functionalities based on the projects requirements.
 
-![image](https://github.com/justanuragmaurya/onboard/assets/143787059/ffa00e12-b010-4ca1-a645-bc31e8a8b208)
+![98c18682-92a0-4fb0-98e8-33060717b3ea](https://github.com/justanuragmaurya/onboard/assets/143787059/a8b51d4f-1edd-410a-a585-7bfa10b1d2bb)
