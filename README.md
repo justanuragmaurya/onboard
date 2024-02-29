@@ -8,3 +8,5 @@ In this , the business owners / HRs can post a job and while posting they have t
 Once the talent applies on the job post , thier resumes and form response's details will be ranked and the top 60% will be qualified on to the the stage, in next stage our AI will create a small test based on the job's requirement and then based on the talent's accuracy and time taken , the AI will rank them and show top potential talents to the HRs / business owners, making it very easy for them to shortlist candidates for the final interviews , making the time taken for the interview to complete significatlly less.
 
 We also plan to add further functionalities based on the projects requirements.
+
+![image](https://github.com/justanuragmaurya/onboard/assets/143787059/ffa00e12-b010-4ca1-a645-bc31e8a8b208)
